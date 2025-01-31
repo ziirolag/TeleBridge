@@ -1,4 +1,6 @@
 session_name.session
 *.pyc
 __pycache__/
+telegram_to_discord.py
+telegram_to_discord2.py
 
